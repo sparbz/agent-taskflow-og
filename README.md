@@ -4,6 +4,6 @@
 
 ### Features
 
-    **Agents**: An Agent represents an AI agent and its ability to perform a set of refined tasks. Agents are responsible for the execution of individual tasks within a task flow.
-    **Tasks**: A Task is the atomic level of action for an Agent. It can be anything from a simple prompt with configurations to an API call or a Google search. Tasks can be easily extended and customized to fit various use cases.
-    **Flows**: A Flow is an ordered collection of tasks, allowing for complex execution patterns and control flow. Flows can contain cycles, making them more flexible than Directed Acyclic Graphs (DAGs).
+  **Agents**: An Agent represents an AI agent and its ability to perform a set of refined tasks. Agents are responsible for the execution of individual tasks within a task flow.
+  **Tasks**: A Task is the atomic level of action for an Agent. It can be anything from a simple prompt with configurations to an API call or a Google search. Tasks can be easily extended and customized to fit various use cases.
+  **Flows**: A Flow is an ordered collection of tasks, allowing for complex execution patterns and control flow. Flows can contain cycles, making them more flexible than Directed Acyclic Graphs (DAGs).
